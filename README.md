@@ -6,6 +6,7 @@
 
 ### Технологи проекта:
 ```
+Python
 BeautifulSoup4
 Prettytable
 requests-cache
